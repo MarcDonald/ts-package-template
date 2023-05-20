@@ -4,6 +4,9 @@
     /* Visit https://aka.ms/tsconfig to read more about this file */
     /* Language and Environment */
     "target": "es2016",
+    "types": [
+      "vitest/globals"
+    ],
 
     /* Modules */
     "module": "commonjs",

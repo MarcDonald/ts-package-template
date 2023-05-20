@@ -6,7 +6,8 @@ definitions.
 ## Stack
 
 * [tsup](https://github.com/egoist/tsup) for bundling
-* [eslint]() for linting
-* [prettier]() for formatting
+* [eslint](https://eslint.org/) for linting
+* [prettier](https://prettier.io/) for formatting
 * [turborepo](https://turbo.build/repo) for package management
 * [changesets](https://github.com/changesets/changesets) for versioning
+* [vitest](https://vitest.dev) for unit tests
