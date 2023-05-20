@@ -1,0 +1,6 @@
+node_modules
+dist
+.turbo
+.idea
+*.iml
+DS_Store
